@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hello there traveller, I’m @Joxta !
-<br>👀 I'm currently a computer science student in the last year (3rd year) and i am really passionate about game design and 3D art
-<br>🌱 In my free time i model all kinds of things and create artwork!
+<br>🎮 I'm currently a computer science student in the last year (3rd year) and i am really passionate about game design and 3D art
+<br>🎨 In my free time i model all kinds of things and create artwork!
 <br>📫 How to reach me pintea2002@gmail.com
 
 
